@@ -1,0 +1,26 @@
+{
+  "name": "html-css-js-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriellukke/html-css-js-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriellukke/html-css-js-cypress/issues"
+  },
+  "homepage": "https://github.com/gabriellukke/html-css-js-cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "eslint": "^8.16.0",
+    "jest": "^28.1.0",
+    "prettier": "^2.6.2"
+  }
+}
