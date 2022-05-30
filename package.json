@@ -1,5 +1,5 @@
 {
-  "name": "html-css-js-cypress",
+  "name": "html-css-js-cypress-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabriellukke/html-css-js-cypress.git"
+    "url": "git+https://github.com/gabriellukke/html-css-js-cypress-boilerplate.git"
   },
   "keywords": [],
   "author": "",
